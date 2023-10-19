@@ -1,0 +1,55 @@
+.navtxt{
+    color:white
+    
+}
+
+.chart{
+    width: 1200px;
+    margin-top:50px;
+}
+
+.roletable{
+    width: 40em;
+    padding:30px;
+    margin-top:60px;
+    margin-left:120px;
+
+}
+
+.roleAdd{
+    padding:30px;
+    margin-top:90px;
+    margin-left:100px;  
+}
+
+.modal-backdrop {
+    opacity: 1 !important; 
+    background-color: transparent !important;
+}
+
+.empImage{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+.Assignroletable{
+    width: 70em;
+    padding:30px;
+    margin-top:18px;
+    margin-left:120px;
+
+}
+
+.viewRole{
+    width: "150px";
+}
+
+.subCategory-Table{
+    width: 50%;
+    padding:30px;
+    margin-top:100px;
+    margin-right:170px;
+    
+}
+
